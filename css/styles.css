@@ -1,6 +1,6 @@
-body{
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7jcpxKsY4NtRsMKygMW1aL0O678nYuSpuITf9qK1vUCevkSUE)
-}
-body{
-  background-repeat: no-repeat;
+body {
+  background-color:lightslategrey;
+  height: 100%;
+  width: 100%;
+  text-align: center;
 }
