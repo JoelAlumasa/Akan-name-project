@@ -20,3 +20,13 @@ img {
 h1 {
   color: rebeccapurple
 }
+.col-md-4 {
+  text-align: center;
+  /* background-color: indigo; */
+  font-size: 30px;
+  margin:30%;
+  margin-right: 5% !important;
+  margin-bottom: 10%;
+  margin-top: 1%;
+
+}
