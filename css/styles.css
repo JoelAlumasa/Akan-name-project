@@ -8,9 +8,12 @@ img {
   float: left;
 }
 .sidebar {
-  width: 55%;
+  width: 56%;
   height: 530px;
   float: right;
   border:solid black;
   background-color: cornflowerblue;
+}
+.bigger {
+  font-size: x-large;
 }
