@@ -11,6 +11,6 @@ img {
   width: 55%;
   height: 530px;
   float: right;
-  border: black;
+  border:solid black;
   background-color: cornflowerblue;
 }
