@@ -1,4 +1,4 @@
-The Akan name generator
+#The Akan name generator
 
 BY Joel Alumasa
 The akan name generator - A project that was an attempt on my part to try and build a site that generates ghanaian Akan Names. This project was ultimately unsuccessful
