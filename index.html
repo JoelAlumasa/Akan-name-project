@@ -37,19 +37,18 @@
       Simply complete the form below -asking for your birthday- and your akan name will be given to you, to the best of my abilities and knowledge.
     </p>
     <form>
-      <div class="col-md-4">
-        <div class="jumbotron">
-          <h2>The following details are needed to generate your Akan name. Kindly fill in the required data below: </h2><br>
-          <input type="radio" id="male" name="gender" value="male">
-          <label for="male">Male</label><br>
-          <input type="radio" id="female" name="gender" value="female">
-          <label for="female">Female</label><br>
-          
-          <label for="birthday">Birthday:</label>
-          <input type="date" id="birthday" name="birthday">
-          <input type="submit" value="submit">
-        </div>
-      </div>
+      <label>
+        Year: <input type="text" id="year">
+        Month: <input type= "text" id="month">
+        Date: <input type= "text" id="date">
+        <button type="button">Submit</button>;
+
+        <p>Select your gender</p>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br>
+      </label>
     </form>
   </body>
 </html>
