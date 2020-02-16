@@ -1,9 +1,13 @@
 # The Akan name generator
 
 BY Joel Alumasa
+
 The akan name generator - A project that was an attempt on my part to try and build a site that generates ghanaian Akan Names. This project was ultimately unsuccessful
+
 Project skillfully incorporates HTML and CSS - but Javascript is woeful and rookie-level.
+
 Joel Alumasa - A rookie with no prior experience in regard to programming. A recent highschool graduate and currently a student at moringa school.
+
 MIT License
 
 Copyright (c) [2019] [ Joel-Alumasa]
