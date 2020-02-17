@@ -5,6 +5,7 @@ By Joel Alumasa
 The akan name generator - A project that was an attempt on my part to try and build a site that generates Ghanaian Akan Names. This project was ultimately unsuccessful.
 
 Project skillfully incorporates HTML and CSS - but Javascript is woeful.
+Link to github pages is as follows: https://joelalumasa.github.io/Akan-name-project/
 
 Joel Alumasa - A rookie with no prior experience in regard to programming. A recent highschool graduate and currently a student at moringa school.
 
